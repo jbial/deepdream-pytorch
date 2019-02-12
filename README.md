@@ -8,6 +8,7 @@ Feature visualization:
 ![alt text](https://github.com/jbial/deepdream-pytorch/blob/master/images/feature_vis1.jpg "feature vis")
 
 Deep Dreaming:
+
 ![alt text](https://github.com/jbial/deepdream-pytorch/blob/master/images/high_frequency_dog.jpg "deep dream")
 
 # TODO
