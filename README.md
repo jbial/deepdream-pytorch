@@ -5,10 +5,10 @@ Note: No need to untar the downloaded models from get_models.sh, see how to [loa
 
 ## Supports:
 Feature visualization:
-![alt text](https://github.com/jbial/deepdream-pytorch/tree/images/feature_vis1.jpg "feature vis")
+![alt text](https://github.com/jbial/deepdream-pytorch/blob/master/images/feature_vis1.jpg "feature vis")
 
 Deep Dreaming:
-![alt text](https://github.com/jbial/deepdream-pytorch/tree/images/high_frequency_dog.jpg "deep dream")
+![alt text](https://github.com/jbial/deepdream-pytorch/blob/master/images/high_frequency_dog.jpg "deep dream")
 
 # TODO
 * Change image optimization to use pytorch hooks
